@@ -2,7 +2,7 @@
 
 Open and continuous community benchmarking
 
-- [omnibenchmark.org](http://omnibenchmark.org/)
+- [omnibenchmark.org](https://omnibenchmark.org/)
 - [Documentation](https://omnibenchmark.readthedocs.io/en/latest/index.html)
 - [omnibenchmark python](https://pypi.org/project/omnibenchmark/)
 - [omnibenchmark at renkulab.io](https://renkulab.io/gitlab/omnibenchmark)
